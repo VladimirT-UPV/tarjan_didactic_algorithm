@@ -40,13 +40,13 @@ El proyecto requiere las siguientes bibliotecas de Python:
 
 ### Ejecución del Programa
 
-1.  Descargue el archivo `algoritmo_tarjan_v3.py` y ubíquelo en un directorio de su elección.
+1.  Descargue el archivo `algoritmo_tarjan_final.py` y ubíquelo en un directorio de su elección.
 2.  Abra una terminal o línea de comandos.
 3.  Navegue hasta el directorio donde se encuentra el archivo del programa (utilizando el comando `cd`).
 4.  Ejecute el script mediante el siguiente comando:
 
     ```bash
-    python algoritmo_tarjan_v3.py
+    python algoritmo_tarjan_final.py
     ```
 
 ## Ayuda
@@ -85,6 +85,3 @@ La estructura de este documento README se inspiró en las siguientes guías:
 
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
