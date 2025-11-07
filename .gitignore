@@ -1,0 +1,12 @@
+# Ignorar versiones viejas/copias (si no son necesarias)
+algoritmo_tarjan.py
+algoritmo_tarjan copy.py
+algoritmo_tarjan_v3.py
+algoritmo_tarjan_v4.py
+algoritmo_tarjan_v5.py
+
+index.php
+
+# O si quieres ignorar todos los archivos .py con un patrón similar:
+# algoritmo_tarjan_v*.py 
+# algoritmo_tarjan copy.py
